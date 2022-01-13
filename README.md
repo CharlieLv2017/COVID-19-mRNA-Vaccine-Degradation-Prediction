@@ -11,4 +11,6 @@ The problem is from a Kaggle competition. The purpose is to leverage our data sc
 
 Qilun Lyu, Shang-Hao Huang
 
+Kaggle: https://www.kaggle.com/c/stanford-covid-vaccine
+
 YouTube Link: https://www.youtube.com/watch?v=OBkNZv-t9dY
