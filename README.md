@@ -8,3 +8,7 @@ Compared to traditional ones, it is made from DNA templates rather than viruses.
 But the researchers found some issues that need to be solved. The key one is RNA molecules are spontaneously degraded and we are not sure which part of the backbone is most prone to being affected. And the currently available vaccines against COVID-19 must be shipped under intense refrigeration.  However, shipping under high-level refrigeration limits the fraction of human beings these vaccines can reach.
 
 The problem is from a Kaggle competition. The purpose is to leverage our data science expertise to develop models and design rules for RNA degradation. We are given a set of mRNA samples for training and finally, we are expected to predict degradation at each base position under different conditions(High pH level, high temperature, having magnesium element).
+
+Qilun Lyu, Shang-Hao Huang
+
+YouTube Link: https://www.youtube.com/watch?v=OBkNZv-t9dY
