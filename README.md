@@ -1,7 +1,7 @@
 # COVID-19 mRNA Vaccine Degradation Prediction
 The project is from a Kaggle competition as the name shown. 
 
-COVID-19 pandemic broke out this year and has no sign of stopping. People need effective vaccines to go back to normal life. Recently, we got great news from biotech companies Moderna and Pfizer. They have developed a new type of vaccine called the messenger Ribonucleic Acid (or mRNA) vaccine. Instead of injecting less lively viruses, mRNA strands directly enter body cells, send information of virus, and produce protein fight against them.
+COVID-19 pandemic broke out this year and has no sign of stop. People need effective vaccines to go back to normal life. Recently, we got great news from biotech companies Moderna and Pfizer. They have developed a new type of vaccine called the messenger Ribonucleic Acid (or mRNA) vaccine. Instead of injecting less lively viruses, mRNA strands directly enter body cells, send information of virus, and produce protein fight against them.
 
 Compared to traditional ones, it is made from DNA templates rather than viruses. Also, it is easier to collect, because it is generated from an electronic sequence. Besides, the developing cycle is faster, typically within several weeks.
 
